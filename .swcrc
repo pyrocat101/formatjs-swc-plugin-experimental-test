@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/swcrc",
+  "jsc": {
+    "parser": {
+      "syntax": "ecmascript",
+      "jsx": true
+    },
+    "experimental": {
+      "plugins": [
+        [
+          "@formatjs/swc-plugin-experimental",
+          {}
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"devDependencies": {
+		"@formatjs/swc-plugin-experimental": "^0.3.0",
+		"@swc/cli": "^0.1.57",
+		"@swc/core": "^1.3.21"
+	}
+}
